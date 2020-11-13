@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1601974474 source:c:\users\naguc\desktop\3_implementation\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1601974474 c:\users\naguc\desktop\3_implementation\unity\unity.h
+	"unity_internals.h"
+
+1602054410 c:\users\naguc\desktop\3_implementation\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1604728294 source:c:\users\naguc\desktop\3_implementation\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"jewel.h"
+	"test_jewel.h"
+
+1604728092 c:\users\naguc\desktop\3_implementation\inc\jewel.h
+
+1602054408 c:\users\naguc\desktop\3_implementation\test\test_jewel.h
+
+1604728372 source:c:\users\naguc\desktop\3_implementation\src\jewel.c
+	<stdio.h>
+	<stdlib.h>
+
+1604728076 source:c:\users\naguc\desktop\3_implementation\test\test_jewel.c
+	"unity.h"
+	"jewel.h"
+
