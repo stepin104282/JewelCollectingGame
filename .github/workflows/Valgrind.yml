@@ -20,4 +20,4 @@ jobs:
     - name: make test
       run: |
         make test -C JewelCollectingGame/3_Implementation/
-        valgrind ./JewelCollectingGame/3_Implementation/build/JewelCollectingGame.out
+        valgrind ./JewelCollectingGame/3_Implementation/build/test_JewelCollectingGame.out
