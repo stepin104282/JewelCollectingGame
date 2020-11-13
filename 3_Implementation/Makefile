@@ -1,12 +1,14 @@
 # Name of the project
-PROJECT_NAME = JewelCollectingGame
+PROJECT_NAME = JewelCollecting
 
 # Output directory
 BUILD = build
 
 # All source code files
-SRC = project_main.c\
+SRC = unity/unity.c\
 src/jewel.c\
+test/test_jewel.c\
+main.c
 
 # All test source files
 TEST_SRC = src/jewel.c\
@@ -15,7 +17,9 @@ test/test_jewel.c
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
 # All include folders with header files
-INC	= -Iinc
+INC = -Iunity\
+-Iinc\
+-Itest
 
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
 
