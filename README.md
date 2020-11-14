@@ -1,5 +1,7 @@
 # JewelCollectingGame
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e22e80fb742e4c6c883f0795bdebfa96)](https://app.codacy.com/gh/stepin104282/JewelCollectingGame?utm_source=github.com&utm_medium=referral&utm_content=stepin104282/JewelCollectingGame&utm_campaign=Badge_Grade)
+
 This JewelCollecting Game is build using C programming language
 
  Description:
