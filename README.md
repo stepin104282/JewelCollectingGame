@@ -1,10 +1,11 @@
 # JewelCollectingGame
 
 This JewelCollecting Game is build using C programming language
-Description:
+
+ Description:
    In this game the person 'P' have to move within the boundary to collect all the jewels present inside the boundary, here the jewels are designated as 'a', 'b', 'c', 'd', 'e'
    
-These the are keyboard controls to move the person 'P' :
+ These the are keyboard controls to move the person 'P' :
    
        1. Press 'A' to move LEFT.
        2. Press 'S' to move RIGHT.
