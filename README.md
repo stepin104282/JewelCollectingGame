@@ -12,3 +12,6 @@ This JewelCollecting Game is build using C programming language
        3. Press 'W' to move UP.
        4. Press 'Z' to move DOWN.
        5. Press 'Q' to QUIT the Game.
+
+
+![cppcheck-action](https://github.com/stepin104282/JewelCollectingGame/workflows/cppcheck-action/badge.svg)
