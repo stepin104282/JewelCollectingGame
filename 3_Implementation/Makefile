@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = JewelCollecting
+PROJECT_NAME = JewelCollectingGame
 
 # Output directory
 BUILD = build
